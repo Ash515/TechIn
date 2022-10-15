@@ -1,4 +1,4 @@
 # TechIn
 A Social Media for Technical Persons
 
-By Ashwin
+By Ashwin Kumar R 
